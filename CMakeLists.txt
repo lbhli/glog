@@ -1,11 +1,12 @@
 cmake_minimum_required (VERSION 3.0)
 
-
 first add
 
 second add
 
 newone
+
+b
 
 if (POLICY CMP0042)
   cmake_policy (SET CMP0042 NEW)
